@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "626650032217",
+    "firebase_url": "https://liberty-safety-app.firebaseio.com",
+    "project_id": "liberty-safety-app",
+    "storage_bucket": "liberty-safety-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:626650032217:android:f706f59d8dc48347",
+        "android_client_info": {
+          "package_name": "com.libertyindustrialgroup.safety"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "626650032217-c5iaskioahah6mmelr515t3dvva7md3h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_xEIyyOuCiGfozbKfcrzhDGVQ1K3LBjU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

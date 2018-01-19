@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>626650032217-bjcudkur6tj4vijqua3dgvvs2bsiaiik.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.626650032217-bjcudkur6tj4vijqua3dgvvs2bsiaiik</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBM0C0MpZxGR_SvnbZkwd39-RsLMmXXLZg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>626650032217</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.libertyindustrialgroup.safety</string>
+	<key>PROJECT_ID</key>
+	<string>liberty-safety-app</string>
+	<key>STORAGE_BUCKET</key>
+	<string>liberty-safety-app.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:626650032217:ios:f706f59d8dc48347</string>
+	<key>DATABASE_URL</key>
+	<string>https://liberty-safety-app.firebaseio.com</string>
+</dict>
+</plist>
